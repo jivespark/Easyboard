@@ -1,6 +1,8 @@
 # Easyboard
 A devboard built for prototyping. It is built to be easy to make quick circuits and test out firmware easily by just plugging this into a laptop and connecting some components. It has a male USB-A connector on the end to make it easy to use without any wires. I built this because I wanted to have a microcontroller that I can just quickly and easily prototye with, and test stuff out for other projects.
 
+Project render:
+![image](https://github.com/jivespark/Easyboard/blob/main/Pictures/project_image.png)
 PCB:  
 ![image](https://github.com/jivespark/Easyboard/blob/main/Pictures/PCB.png)
 
